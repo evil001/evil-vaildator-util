@@ -18,6 +18,7 @@
   },
   "bugs": "https://github.com/evil001/evil-vaildator-util.git/issues",
   "dependencies": {
+    "aws-cdk-lib": "^2.132.0",
     "shell-oooooyoung": "^1.1.6"
   },
   "author": "",
